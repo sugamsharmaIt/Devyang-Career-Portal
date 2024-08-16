@@ -1,0 +1,108 @@
+
+@media all and (min-width: 1280px) and (max-width: 1366px) {
+   .menu > li > a {padding:18px 15px 24px;}
+
+}
+
+@media all and (min-width: 1024px) and (max-width: 1366px) {
+    .menu > li > a {padding: 18px 6px 24px;}
+}
+
+
+@media all and (min-width: 820px) and (max-width: 1180px) {
+    .logo img {width: 110px;}
+    .menu > li > a {padding:12px 4px 14px; font-size:16px; }
+    .login{padding:7px 3px;}
+    .login li a {padding: 6px 8px; font-size:16px;}
+    .login li.active a {padding:5px 14px 8px; font-size:16px;}
+    ul.tabs li.current{padding:12px 20px; font-size:16px;}
+    ul.tabs li {padding:12px 20px; font-size:16px;}
+    .tab-content {padding:6px;}
+    .tab-content.current span a {padding:6px 15px;}
+    .nav-sub-menu{width:400px;}
+    .nav-sub-menus li a {padding:6px 15px;}
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+    .logo img {width: 110px;}
+    .menu > li > a {padding:14px 2px 17px; font-size:16px; }
+    .login{padding:7px 3px;}
+    .login li a {padding: 6px 8px; font-size:16px;}
+    .login li.active a {padding:5px 14px 8px; font-size:16px;}
+    ul.tabs li.current{padding:12px 20px; font-size:16px;}
+    ul.tabs li {padding:12px 20px; font-size:16px;}
+    .tab-content {padding:6px;}
+    .tab-content.current span a {padding:6px 15px;}
+    .nav-sub-menu{width:400px;}
+    .nav-sub-menus li a {padding:6px 15px;}
+    .Arerecruiter h1 {font-size: 26px;}
+    .Arerecruiter h2{font-size: 26px;}
+    .middlewrappers{width:98%;}
+}
+
+@media screen and (max-width: 767px) {
+    .logo{width:70%;}
+    .hamburger{display:block; position: absolute; top: 16px; right: 30px;}
+    .menu > li{display:block;}
+    .menu > li > a{padding:4px 3px;}
+    .nav-sub-menus{width:100%; border-radius:10px; z-index:999 !important;}
+    .menu{display:none;}
+    .nav-sub-menu{width:100%;}
+    ul.tabs li.current {padding:10px;}
+    .tab-content {padding:0px;}
+        .tab-content.current span a{font-size:15px; padding:6px 10px;}
+    .spacing-top {padding: 20px 0px;}
+    .videosection video {display:none;}
+    .videosection{background-color:#fe6200; opacity: .6;  transition: background .3s, border-radius .3s, opacity .3s;}
+    .topscreen{position:relative; padding:0px 0px 30px 0px;}
+    .heading h1 {font-size: 30px;}
+    .search-box {width: 100%; display:block; padding:20px 10px;}
+        .search-box input{width:86%; border-right:none;}
+    .selectBox {width: 100%; border-right:none; border-bottom:1px solid #ccc; border-top:1px solid #ccc;}
+    .searchbtn{width:100%; text-align:center; margin:15px 0px; }
+    .searchbtn span{background:#fe6200;}
+    .icon-box-wrapper {display: flex; margin:10px 15px;}
+    .civi-icon-wrap {width: 20%; padding: 15px 5px;}
+    .icon-box-content p{padding:2px 0px;}
+
+#tl-featured-slider1 .owl-prev{display:none !important;}
+#tl-featured-slider1 .owl-next{display:none !important;}
+#tl-featured-slider2 .owl-prev{display:none !important;}
+#tl-featured-slider2 .owl-next{display:none !important;}
+
+.fullwidth {display: block;}
+.left-section-col{padding:20px 15px 20px 30px;}
+.right-section-col{padding:20px 15px 20px 30px;}
+.left-section-text{width:100%;}
+.heading-job h2 {font-size: 24px;}
+.heading-job {margin-bottom: 15px;}
+.Category-box{margin-bottom:15px;}
+.Category-text p{padding:0px; font-size:16px;}
+.tz-gallery .row .col-md-3{padding:0px;}
+.tabs {padding: 10px 0px;}
+.tabs span{font-size:15px; margin-right:8px;}
+.blog-box a {font-size: 18px;}
+ul.list-style-type-square-none{padding:0px;}
+ul.list-style-type-square-none li{width:100%; font-size:16px;}
+.Training-Centres .col-md-4{padding:0px 15px;}
+.Training-Centres .col-md-8{padding:0px 15px;}
+.footer-text h5 {padding:30px 0px 10px 0px;}
+.newsletter{margin:10px 0px;}
+.Subscribe-newsletter{padding:15px 0px;}
+.footer-spcing {padding: 0px 0px 20px;}
+.copyright{padding:18px 0px;}
+    .faq-section .accordion-button h5 {font-size:16px;}
+    .accordion-body{font-size:16px;}
+        .accordion-body b {font-size:16px;}
+    ul.list-style-type-square li {font-size:16px;}
+    .accordion-item {margin-bottom: 10px;}
+    .faqbg{padding:0px;}
+    .viewalljobs {margin: 20px 0px;}
+    #gotop{display:none !important;}
+    .middlewrapper {width:85%;}
+    .Arerecruiter h1 {font-size: 26px;}
+    .Arerecruiter h2{font-size: 26px;}
+    .lazyimg img{position:relative; width:100%;}
+    .middlewrappers {width: 100%; padding: 4%;}
+    }
+
